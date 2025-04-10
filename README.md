@@ -65,7 +65,7 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 
 ## 📁 Resume
 
-You can [view/download my resume here]([./RISHAV.pdf](https://github.com/Rishav-R03/resume/blob/main/RISHAV%20RAJ%20Cloud.pdf)).  
+You can [view/download my resume here](./Resume.pdf). 
 (Open access link for recruiters: make sure it's public)
 
 ---
