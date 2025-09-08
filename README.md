@@ -7,7 +7,7 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 ## 🧠 About Me
 
 🎓 B.Tech CSE @ VIT Bhopal (2022–2026)  
-💻 Backend focused (Python, PostgreSQL, Redis)  
+💻 Backend focused (Python,Java, PostgreSQL, Redis)  
 ☁️ DevOps & Cloud-native enthusiast (AWS, Docker, Git & GitHub)  
 ⚙️ Strong in building production-ready systems with CI/CD, and System Design best practices.
 
@@ -15,7 +15,7 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, Bash
+- **Languages:** Python, SQL, Bash, Java
 - **Backend:** REST APIs, Microservices, JWT
 - **Cloud & Infra:** AWS (Lambda, EC2, S3, RDS, IAM), GitHub Actions, Docker
 - **Databases:** PostgreSQL, Redis, MySQL, DynamoDB
@@ -36,11 +36,11 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 
 ## 📈 Achievements
 
-- 🏆 Top 20 in Innovate You Techathon (250+ teams)  
-- ✅ 250+ LeetCode problems solved, Top 40% in contests  
+- 🏆 Top 10 in Innovate You Techathon (250+ teams)  
+- ✅ 400+ LeetCode problems solved, Top 40% in contests  
 - 🥇 GOLD badges in Python & SQL (HackerRank)  
-- 📜 Certified in AI/ML, Cloud & Data Engineering (Udemy, Coursera)  
-- 👥 Led a team of 8 to conduct a tech club event
+- 📜 Certified in Cloud & Data Engineering (Udemy, Coursera)  
+- 👥 Led a team of 8 to conduct a microsoft technical club event.
 
 ---
 
