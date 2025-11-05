@@ -23,15 +23,8 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 
 ---
 
-## 📂 Projects (Engineer-Level Work)
+## 📂 Projects
 
-### 🔗 [URL Shortener Service](https://github.com/Rishav-R03/url-shortener)
-> Fast API + PostgreSQL + Redis + Monitoring 
-• Developed production-ready URL shortening API handling 1,000+ requests/minute with load balancing.
-• Implemented custom short URL algorithm generating collision-free 6-character codes for 56+ billion URLs
-• Built Redis-based caching achieving 99.2% cache hit rate and sub-100ms response times
-• Implemented database connection pooling and async operations improving throughput by 3x.
-• Created rate limiting middleware preventing abuse with IP-based throttling and API key management.
 ---
 
 ## 📈 Achievements
