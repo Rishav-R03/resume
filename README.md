@@ -1,4 +1,4 @@
-# 📄 Rishav Raj – Backend & DevOps Engineer
+# 📄 Rishav Raj – Backend Engineer
 
 Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves building scalable systems, automating infrastructure, and thinking like an engineer, not just a developer.
 
@@ -9,17 +9,17 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 🎓 B.Tech CSE @ VIT Bhopal (2022–2026)  
 💻 Backend focused (Python,Java, PostgreSQL, Redis)  
 ☁️ DevOps & Cloud-native enthusiast (AWS, Docker, Git & GitHub)  
-⚙️ Strong in building production-ready systems with CI/CD, and System Design best practices.
+⚙️ Strong in building production-ready systems and System Design best practices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, Bash, Java
-- **Backend:** REST APIs, Microservices, JWT
-- **Cloud & Infra:** AWS (Lambda, EC2, S3, RDS, IAM), GitHub Actions, Docker
-- **Databases:** PostgreSQL, Redis, MySQL, DynamoDB
-- **Monitoring & Security:** CloudWatch, TLS/SSL, VPC, IAM, OAuth2, Load Balancers
+- **Languages:** SQL, Java
+- **Backend:** REST APIs, JWT
+- **Cloud & Infra:** AWS (Lambda, EC2, S3, RDS, IAM), Docker
+- **Databases:** PostgreSQL, DynamoDB
+- **Monitoring & Security:** CloudWatch, TLS/SSL, VPC, IAM, Load Balancers
 
 ---
 
@@ -37,9 +37,8 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 ## 📈 Achievements
 
 - 🏆 Top 10 in Innovate You Techathon (250+ teams)  
-- ✅ 400+ LeetCode problems solved, Top 40% in contests  
-- 🥇 GOLD badges in Python & SQL (HackerRank)  
-- 📜 Certified in Cloud & Data Engineering (Udemy, Coursera)  
+- ✅ 500+ LeetCode problems solved, Top 40% in contests  
+- 🥇 GOLD badges in SQL (HackerRank)  
 - 👥 Led a team of 8 to conduct a microsoft technical club event.
 
 ---
@@ -54,9 +53,6 @@ Welcome! I'm **Rishav Raj**, a passionate Backend & DevOps Engineer who loves bu
 ---
 
 ## 📁 Resume
-
-You can [view/download my resume here](./Resume.pdf). 
-(Open access link for recruiters: make sure it's public)
 
 ---
 
